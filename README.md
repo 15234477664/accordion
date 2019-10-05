@@ -1,2 +1,1 @@
-# accordion
-基于原生js的手风琴
+# accordion（基于原生js的手风琴）
